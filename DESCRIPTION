@@ -1,0 +1,17 @@
+Package: INCLASSDEMO
+Type: Package
+Title: This Is A Classroom Package Demo
+Version: 0.1.0
+Authors@R: c(
+    person("Aaron", "Wilhelm", email = "amw6022@psu.edu", role = c("aut","cre")),
+    person("Stephane", "Guerrier", role = "aut"),
+    person("Roberto", "Molinari", role = "aut"),
+    person("Matthew", "Beckman", role = "aut")
+    )
+Maintainer: Aaron Wilhelm <amw6022@psu.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
